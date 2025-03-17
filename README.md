@@ -11,7 +11,8 @@
 - **Research Assistant** @ Trustworthy Cyberspace Lab, Virginia Tech *(Nov. 2024 – Current)*
 - **Software Engineer** @ AIFFEL Academy *(May. 2024 – Aug. 2024)*
 - **iOS Developer and Project Manager** @ Apple Developer Academy *(Mar. 2023 – Dec. 2023)*
-- **WWDC23 Swift Student Challenge Winner** [Github](https://github.com/hyungminkimdev/WWDC23-Swift-Student-Challenge) *(May. 2023)*
+  - **SoccerBeat: Personal Soccer Performance Tracker App** [Appstore](https://apps.apple.com/us/app/soccerbeat/id6470206109) [Github](https://github.com/DeveloperAcademy-POSTECH/MacC-Team10-Guryongpo) *(Sep. 2023 – Dec. 2023)*
+  - **WWDC23 Swift Student Challenge Winner** [Github](https://github.com/hyungminkimdev/WWDC23-Swift-Student-Challenge) *(May. 2023)*
 
 
 # 💻 Tech Stack:
