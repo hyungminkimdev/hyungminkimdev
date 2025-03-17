@@ -4,8 +4,9 @@
 
 #### 🎓 student in CS at Virginia Tech, with a focus on AI, Machine Learning, and Deep Learning<br>
 #### 📖 Currently researching bias in NLP models by analyzing multimodal monetary scam data<br>
-#### 🍏 iOS app & Web developer and project manager<br>
-
+#### 🍏 iOS app & Web developer and project manager<br>  
+  
+  <br>  
 # 🛤️ Professional Journey
 
 - **Research Assistant** @ Trustworthy Cyberspace Lab, Virginia Tech *(Nov. 2024 – Current)*
@@ -13,8 +14,8 @@
 - **iOS Developer and Project Manager** @ Apple Developer Academy *(Mar. 2023 – Dec. 2023)*
   - **SoccerBeat: Personal Soccer Performance Tracker App** [Appstore](https://apps.apple.com/us/app/soccerbeat/id6470206109) [Github](https://github.com/DeveloperAcademy-POSTECH/MacC-Team10-Guryongpo) *(Sep. 2023 – Dec. 2023)*
   - **WWDC23 Swift Student Challenge Winner** [Github](https://github.com/hyungminkimdev/WWDC23-Swift-Student-Challenge) *(May. 2023)*
-
-
+  
+  <br>  
 # 💻 Tech Stack:
 
 **Languages & Frameworks**  
@@ -34,7 +35,8 @@
 
 **Tools & Others**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
+  
+  <br>  
 # 📂 Featured Projects
 
 ### [SoccerBeat](https://apps.apple.com/us/app/soccerbeat/id6470206109) *(iOS/watchOS)*
@@ -51,8 +53,9 @@
 
 ### [Indoor Map Navigation](https://github.com/hyungminkimdev/indoor-map-navigation) *(React, Azure)*
 > Created a voice-assisted indoor navigation app, optimizing routes with Dijkstra's algorithm and integrating Azure's Speech SDK.
-
-## 🌐 Socials:
+  
+  <br>  
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyungmin-kim) 
 
 <!--
