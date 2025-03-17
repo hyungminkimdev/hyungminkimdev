@@ -6,6 +6,13 @@
 #### 📖 Currently researching bias in NLP models by analyzing multimodal monetary scam data<br>
 #### 🍏 iOS app & Web developer and project manager<br>
 
+# 🛤️ Career Timeline
+
+- **Research Assistant** @ Trustworthy Cyberspace Lab, Virginia Tech *(Nov. 2024 – Current)*
+- **Software Engineer** @ AIFFEL Academy *(May. 2024 – Aug. 2024)*
+- **iOS Developer and Project Manager** @ Apple Developer Academy *(Mar. 2023 – Dec. 2023)*
+
+
 # 💻 Tech Stack:
 
 **Languages & Frameworks**  
