@@ -7,9 +7,11 @@
 #### 🍏 iOS app & Web developer and project manager
   
 # 🛤️ Professional Journey
-- **MEng, Computer Science and Applications** @ Virginia Tech *(Aug. 2024 – Expected Dec. 2025)* <br>
+- #### **MEng, Computer Science and Applications** @ Virginia Tech <br>
+- *(Aug. 2024 – Expected Dec. 2025)* 
   
-  - **Research Assistant** @ Trustworthy Cyberspace Lab, Virginia Tech *(Nov. 2024 – Current)* <br>
+  - #### **Research Assistant** @ Trustworthy Cyberspace Lab, Virginia Tech
+  - *(Nov. 2024 – Current)* <br>
     
 - **Software Engineer** @ AIFFEL Academy *(May. 2024 – Aug. 2024)* <br>
   
