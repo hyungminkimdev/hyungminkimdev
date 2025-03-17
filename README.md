@@ -26,7 +26,7 @@
     May. 2023 <br>
     
 - ### **BS, Civil and Environmental Engineering** @ Yonsei University
-- Mar. 2014 – Aug. 2021
+  Mar. 2014 – Aug. 2021
 > Coursework: Data Structures, Algorithms, Operating Systems, Computer System, Linear Algebra
     
 # 💻 Tech Stack:
