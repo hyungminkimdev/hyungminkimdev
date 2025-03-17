@@ -5,6 +5,8 @@
 #### 🎓 Master's student in CS at Virginia Tech, with a focus on AI, Machine Learning, and Deep Learning
 #### 📖 Currently researching bias in NLP models by analyzing multimodal monetary scam data
 #### 🍏 iOS app & Web developer and project manager
+
+<br>
   
 # 🛤️ Professional Journey
 - ### **MEng, Computer Science and Applications** @ Virginia Tech
@@ -28,6 +30,8 @@
 - ### **BS, Civil and Environmental Engineering** @ Yonsei University
   Mar. 2014 – Aug. 2021
 > Coursework: Data Structures, Algorithms, Operating Systems, Computer System, Linear Algebra
+
+<br>
     
 # 💻 Tech Stack:
 
@@ -48,6 +52,8 @@
 
 ### **Tools & Others**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
   
 # 📂 Featured Projects
 
@@ -65,6 +71,8 @@
 
 ### [Indoor Map Navigation](https://github.com/hyungminkimdev/indoor-map-navigation) *(React, Azure)*
 > Created a voice-assisted indoor navigation app, optimizing routes with Dijkstra's algorithm and integrating Azure's Speech SDK.
+
+<br>
   
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyungmin-kim) 
