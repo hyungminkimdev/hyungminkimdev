@@ -2,7 +2,7 @@
 ### 🙆‍♂️ A Developer Who Thrives on Challenges and Growth<br>
 > I am a **Software Engineer** with expertise in **Machine Learning & NLP**, **iOS Development**, and **Full-Stack Web Development**. My passion lies in building technology that makes a positive impact, whether through data-driven insights, intuitive mobile experiences, or scalable web solutions.
 
-#### 🎓 student in CS at Virginia Tech, with a focus on AI, Machine Learning, and Deep Learning
+#### 🎓 Master's student in CS at Virginia Tech, with a focus on AI, Machine Learning, and Deep Learning
 #### 📖 Currently researching bias in NLP models by analyzing multimodal monetary scam data
 #### 🍏 iOS app & Web developer and project manager
   
