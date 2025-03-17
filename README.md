@@ -29,6 +29,23 @@
 **Tools & Others**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
+# 📂 Featured Projects
+
+### [SoccerBeat](https://apps.apple.com/us/app/soccerbeat/id6470206109) *(iOS/watchOS)*
+> A personal soccer performance tracker app with real-time data collection and visualization. Achieved **1.3K+ downloads** on the App Store.
+
+### [HandDrive](https://github.com/hyungminkimdev/HandDrive) *(Swift, ARKit)*
+> Built a parking simulator for individuals with lower limb disabilities, integrating **ARKit** and **CreateML** for real-time hand gesture recognition.
+
+### [Inventory Management Web Application](https://github.com/pbl-group-2-mccs/mccs-retail-data-analytics) *(React, Spring Boot, AWS)*
+> Developed a full-stack app with dynamic dashboard visualization and integrated cloud-based database solutions using AWS.
+
+### [RL for Inventory Optimization](https://drive.google.com/file/d/1RUaRIVPV-gq1i_a1ejGGB_icsUCSu3TC/view?usp=sharing) *(Python, PyTorch)*
+> Engineered a **reinforcement learning model** with uncertainty estimation for efficient inventory restocking, improving decision-making by **18%**.
+
+### [Indoor Map Navigation](https://github.com/hyungminkimdev/indoor-map-navigation) *(React, Azure)*
+> Created a voice-assisted indoor navigation app, optimizing routes with Dijkstra's algorithm and integrating Azure's Speech SDK.
+
 
 <!--
 # 📊 GitHub Stats:
