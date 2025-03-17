@@ -2,9 +2,9 @@
 ### 🙆‍♂️ A Developer Who Thrives on Challenges and Growth<br>
 > I am a **Software Engineer** with expertise in **Machine Learning & NLP**, **iOS Development**, and **Full-Stack Web Development**. My passion lies in building technology that makes a positive impact, whether through data-driven insights, intuitive mobile experiences, or scalable web solutions.
 
-#### 🎓 Currently a Master’s student in CS at Virginia Tech, with a focus on AI, ML, and DL<br>
-#### 🍏 iOS app developer and project manager<br>
-#### 🦺 Civil Engineer for an airport construction project
+#### 🎓 student in CS at Virginia Tech, with a focus on AI, Machine Learning, and Deep Learning<br>
+#### 📖 Currently researching bias in NLP models by analyzing multimodal monetary scam data<br>
+#### 🍏 iOS app & Web developer and project manager<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyungmin-kim) 
