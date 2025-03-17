@@ -6,9 +6,6 @@
 #### 📖 Currently researching bias in NLP models by analyzing multimodal monetary scam data<br>
 #### 🍏 iOS app & Web developer and project manager<br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyungmin-kim) 
-
 # 💻 Tech Stack:
 
 **Languages & Frameworks**  
@@ -46,6 +43,8 @@
 ### [Indoor Map Navigation](https://github.com/hyungminkimdev/indoor-map-navigation) *(React, Azure)*
 > Created a voice-assisted indoor navigation app, optimizing routes with Dijkstra's algorithm and integrating Azure's Speech SDK.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyungmin-kim) 
 
 <!--
 # 📊 GitHub Stats:
