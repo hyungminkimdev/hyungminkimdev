@@ -15,9 +15,9 @@
   
 - **iOS Developer and Project Manager** @ Apple Developer Academy *(Mar. 2023 – Dec. 2023)* <br>
   
-  - **SoccerBeat: Personal Soccer Performance Tracker App** [Appstore](https://apps.apple.com/us/app/soccerbeat/id6470206109) [Github](https://github.com/DeveloperAcademy-POSTECH/MacC-Team10-Guryongpo) *(Sep. 2023 – Dec. 2023)* <br>
+  - **SoccerBeat: Personal Soccer Performance Tracker App** ([Appstore](https://apps.apple.com/us/app/soccerbeat/id6470206109)) ([Github](https://github.com/DeveloperAcademy-POSTECH/MacC-Team10-Guryongpo)) *(Sep. 2023 – Dec. 2023)* <br>
     
-  - **WWDC23 Swift Student Challenge Winner** [Github](https://github.com/hyungminkimdev/WWDC23-Swift-Student-Challenge) *(May. 2023)* <br>
+  - **WWDC23 Swift Student Challenge Winner** ([Github](https://github.com/hyungminkimdev/WWDC23-Swift-Student-Challenge)) *(May. 2023)* <br>
     
 - **BS, Civil and Environmental Engineering** @ Yonsei University *(Mar. 2014 – Aug. 2021)*
 > Coursework: Data Structures, Algorithms, Operating Systems, Computer System, Linear Algebra
