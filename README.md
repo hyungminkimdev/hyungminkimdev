@@ -10,7 +10,7 @@
   
 # 🛤️ Professional Journey
 - ### **MEng, Computer Science and Applications** @ Virginia Tech
-  Aug. 2024 – (Expected) Dec. 2025 <br>
+  Aug. 2024 – (Expected) May. 2026 <br>
   
   <!---
   - ### **Research Assistant** @ Trustworthy Cyberspace Lab, Virginia Tech
